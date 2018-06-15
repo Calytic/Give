@@ -21,7 +21,7 @@ If the Kits plugin is installed, players can also give kits if they have the per
 This plugin provides universal chat and console commands. When using a command in the chat, prefix it with a forward slash: `/`.
 
 - `give <item id or item name> [amount] [player name or id]` -- Give an item to self or another player
-- `givekit <kit name> [player name or id]` -- Give an available kit to self or another player
+- `givekit <kit name> [player name or id or all]` -- Give an available kit to self or another player
 
 ## Configuration
 
